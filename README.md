@@ -18,6 +18,6 @@ Timestamp (time in seconds)
 
 Driving Behaviors:
 
-Slow
-Normal
-Aggressive
+(Slow,
+Normal,
+Aggressive)
