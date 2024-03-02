@@ -6,7 +6,7 @@ Gravitational acceleration: removed.
 
 Sensors: Accelerometer and Gyroscope.
 
-Data:
+### Data:
 
 Acceleration (X,Y,Z axis in meters per second squared (m/s2))
 
